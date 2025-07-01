@@ -1,0 +1,1 @@
+console.log("ini adalah untuk menguji materil looping statement menggunakan git")
